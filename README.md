@@ -1,2 +1,0 @@
-# Divy.html
-Coding workout
